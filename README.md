@@ -1,0 +1,5 @@
+- 👋 Hi, I’m arun
+- 👀 I’m interested in web devlopment and networking
+- 🌱 I’m currently learning k8s
+- 💞️ I’m looking to collaborate on IoT projects
+- 📫 How to reach me @pingarunhere@gmail.com
